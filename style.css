@@ -38,7 +38,7 @@ body {
 
 .header-email {
   padding-left: 30px;
-  background-image: url("https://github.com/sergeyvarlamov-bot/my-site/blob/main/icon-email.svg");
+  background-image: url("/main/icon-email.svg");
 }
 
 .header-phone {
